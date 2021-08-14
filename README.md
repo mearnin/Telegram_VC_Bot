@@ -53,7 +53,7 @@ Fork this repository and change name of `sample_config.py` to `config.py`
 Then you will need get a session string, copy it, then press heroku deploy button.
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/thehamkercat/Telegram_VC_Bot/tree/master)
-
+[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/sathaaaaaa/Telegram_VC_Bot/tree/master&envs=API_HASH,API_ID,ARQ_API_KEY,BITRATE,DEFAULT_SERVICE,SESSION_STRING)
 
 Send [commands](https://github.com/thehamkercat/Telegram_VC_Bot/blob/master/README.md#commands) to bot to 
 play music.
